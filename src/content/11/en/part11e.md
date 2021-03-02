@@ -141,3 +141,4 @@ Note that the "exam done in Moodle" note refers to the [Full Stack Open course's
 You can download the certificate for completing this part by clicking one of the flag icons. The flag icon corresponds to the certificate's language. 
 
 </div>
+
